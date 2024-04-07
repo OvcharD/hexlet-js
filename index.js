@@ -1,4 +1,3 @@
-import sayHello from './src/index.js'
+import sayHello from './src/index.js';
 
 sayHello();
-
